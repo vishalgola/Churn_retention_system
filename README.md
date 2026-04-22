@@ -28,7 +28,7 @@ This system solves that by:
 - **Models Used:**  
   - Gradient Boosting  
   - Random Forest  
-  - Linear Regression *(used for probability estimation in ensemble)*  
+  - Logistic Regression *(used for probability estimation in ensemble)*  
 - **Frontend / Deployment:** Streamlit  
 - **Data Processing:** Pandas, NumPy  
 - **Model Storage:** Pickle  
@@ -41,7 +41,7 @@ Instead of relying on a single model, this system combines multiple models:
 
 - **Random Forest** → Captures complex non-linear relationships  
 - **Gradient Boosting** → Improves prediction accuracy by correcting errors  
-- **Linear Regression** → Provides smooth probability estimation  
+- **Logistic Regression** → Provides smooth probability estimation  
 
 ### 🔥 Final Prediction Logic  
 - Predictions from all models are combined using **Averaging (Ensemble Voting)**  
