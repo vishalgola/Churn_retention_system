@@ -83,7 +83,7 @@ Churn_retention_system/
 ## 🚀 Live Demo  
 
 👉 **Try the App:**  
-[https://your-app-link.streamlit.app](https://churn-retention-system-app1.streamlit.app/)  
+[[https://]churn-retention-system-app.streamlit.app](https://churn-retention-system-app1.streamlit.app/)  
 
 ---
 
