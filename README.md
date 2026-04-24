@@ -12,6 +12,20 @@ It is deployed using **Streamlit**, enabling real-time predictions through an in
 
 ---
 
+## 📸 App Preview  
+
+<img width="957" height="450" alt="image" src="https://github.com/user-attachments/assets/76bcfec1-e9ac-4775-996a-ccefb6ca2c91" />
+
+
+---
+
+## 🚀 Live Demo  
+
+👉 **Try the App:**  
+[Have a Look](https://churn-retention-system-app1.streamlit.app/)  
+
+---
+
 ## 🎯 Problem Statement  
 Traditional single-model approaches often fail to capture complex customer behavior patterns.
 
@@ -80,12 +94,7 @@ Churn_retention_system/
 
 ---
 
-## 🚀 Live Demo  
 
-👉 **Try the App:**  
-[Have a Look](https://churn-retention-system-app1.streamlit.app/)  
-
----
 
 ## 🖥️ Run Locally  
 
@@ -104,13 +113,6 @@ streamlit run streamlit_app.py
 | Accuracy     | **~85%**  |
 | Precision    | **~85%**  |
 | Recall       | **~85%**  |
-
----
-
-## 📸 App Preview  
-
-<img width="957" height="450" alt="image" src="https://github.com/user-attachments/assets/76bcfec1-e9ac-4775-996a-ccefb6ca2c91" />
-
 
 ---
 
