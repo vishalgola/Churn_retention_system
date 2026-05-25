@@ -14,6 +14,7 @@ It is deployed using **Streamlit**, enabling real-time predictions through an in
 
 ---
 
+## 📸 App Preview  
 
 <img width="957" height="450" alt="image" src="https://github.com/user-attachments/assets/76bcfec1-e9ac-4775-996a-ccefb6ca2c91" />
 
