@@ -4,6 +4,7 @@
 
 ---
 
+## 📌 Overview  
 
 Customer churn is one of the biggest hidden revenue leaks in any business. Most companies react *after* customers leave — this system focuses on predicting churn **before it happens**.
 
